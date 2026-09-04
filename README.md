@@ -1,5 +1,7 @@
 # Smart Traffic RL Dashboard
 
+## Summary
+
 > **Building AI course project** — Smart Traffic RL Dashboard is a real-time web interface for observing how a reinforcement-learning agent controls urban intersections. It translates simulated traffic telemetry into live signal states, actions, rewards, speed indicators, and vehicle events that people can inspect.
 
 ## Background
@@ -78,4 +80,3 @@ Longer term, the project could coordinate multiple intersections, use safe multi
 - Inspired by the **Building AI** course from Reaktor Innovations and the University of Helsinki.
 - Reinforcement-learning concepts are informed by the wider open-source Python and machine-learning communities.
 - Replace this section with the licences and citations for any simulator, datasets, icons, images, or third-party code used in the final implementation (for example, Creative Commons or MIT-licensed assets).
-
